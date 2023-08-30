@@ -1,3 +1,1 @@
-select * from [table]
-
-select some more stuff
+some new code
